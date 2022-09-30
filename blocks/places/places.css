@@ -20,7 +20,7 @@
 
 @media (max-width: 320px) {
     .places {
-        margin: 0 ;
+        margin: 0;
         gap: 50px;
     }
 }
