@@ -1,6 +1,7 @@
 .cover__title {
+    font-family: 'Inter';
     margin: 0 auto 0;
-    width: 560px;
+    max-width: 560px;
     height: 152px;
     font-weight: 900;
     font-size: 72px;
