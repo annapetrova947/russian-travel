@@ -1,7 +1,13 @@
-.cover__title {
+@font-face {
     font-family: 'Inter';
+    src: url(../../../vendor/fonts/Inter-Bold.woff) format('woff'), url(../../../vendor/fonts/Inter-Bold.woff2) format('woff2');
+    font-weight: normal;
+}
+
+.cover__title {
+    font-family: 'Inter', sans-serif;
     margin: 0 auto 0;
-    max-width: 560px;
+    width: 560px;
     height: 152px;
     font-weight: 900;
     font-size: 72px;
