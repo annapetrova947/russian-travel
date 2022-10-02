@@ -8,4 +8,18 @@
     text-transform: uppercase;
 
     color: #FFFFFF;
+    margin-left: 16px;
 }
+
+@media (min-width: 768px) {
+    .lead__caption {
+        margin-left: 24px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .lead__caption {
+        margin-left: 0px;
+    }
+}
+

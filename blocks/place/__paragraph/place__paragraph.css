@@ -8,7 +8,7 @@
 
 }
 .place__paragraph:last-child{
-    margin: 0;
+    margin-bottom: 0;
 }
 
 @media (min-width: 1024px) {
